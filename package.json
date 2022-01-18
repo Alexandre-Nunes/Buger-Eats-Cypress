@@ -1,0 +1,21 @@
+{
+  "name": "bugereats",
+  "version": "1.0.0",
+  "description": "Projeto realizado no curso da QANinja",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Alexandre Nunes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "faker": "^6.6.6",
+    "gerador-validador-cpf": "^5.0.2"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "D": "^1.0.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

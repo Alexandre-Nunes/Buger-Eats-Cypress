@@ -1,0 +1,52 @@
+{
+    "cadastro": {
+        "name": "Alexandre Nunes",
+        "cpf": "00000014141",
+        "email": "alexandrenunes@gmail.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "88058300",
+           "street": "Rodovia João Gualberto Soares",
+            "number": "999",
+            "details": "Casa 01",
+            "district": "Ingleses do Rio Vermelho",
+            "city_state": "Florianópolis/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_invalido": {
+        "name": "Alexandre Filho",
+        "cpf": "x00000141AA",
+        "email": "alexandrenunes@gmail.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "88058300",
+           "street": "Rodovia João Gualberto Soares",
+            "number": "999",
+            "details": "Casa 01",
+            "district": "Ingleses do Rio Vermelho",
+            "city_state": "Florianópolis/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_invalido": {
+        "name": "Alexandre Nunes",
+        "cpf": "00000014141",
+        "email": "alexandrenunes.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "88058300",
+           "street": "Rodovia João Gualberto Soares",
+            "number": "999",
+            "details": "Casa 01",
+            "district": "Ingleses do Rio Vermelho",
+            "city_state": "Florianópolis/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
